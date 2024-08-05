@@ -28,4 +28,5 @@ Tests must not be 90% stable, they must be 99% stable
 The challenge for this particular page are:
 - infinite scroll is broken, can be easily reproduced manually
 - looks like BE api has a performance problem
+
 I have workarounds for those, so I hit the 99% mark
